@@ -26,7 +26,7 @@ cp -r claude-code-game-dev-skill/skills/game-dev .claude/skills/
 ## 💡 Usage
 Launch Claude Code in your game project folder and describe your idea:
 
-> *"I want to build a 2D top-down roguelike in Godot. Follow the game-dev skill rules, ask me any clarifying questions first, and plan Phase 1."*
+> *"I want to build a 2D top-down roguelike in Godot."*
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to open a PR.
