@@ -1,4 +1,4 @@
-# 🎮 Claude Code: Game Dev Skill
+# 🎮 Claude Code: Game Dev Skill V1.1
 
 A modular, engine-agnostic **Claude Code Skill** that turns your AI assistant into a structured Game Director and multi-agent development studio. Compatible with **Unity, Godot, Unreal, Phaser, Three.js**, and more.
 
