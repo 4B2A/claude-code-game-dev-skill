@@ -7,6 +7,7 @@ A modular, engine-agnostic **Claude Code Skill** that turns your AI assistant in
 * **Human-in-the-Loop Checkpoints:** Pauses after each phase to report progress and wait for your approval before moving forward.
 * **Auto Engine Detection:** Scans your project directory to identify the game engine and applies its specific best practices.
 * **Studio Subagent Roles:** Orchestrates specialized roles (*Coder*, *Tester*, *Juice Team*) for clean architecture, QA testing, and high game-feel.
+* **Prohibiting Slop Code.
 
 ## 🚀 Installation
 
